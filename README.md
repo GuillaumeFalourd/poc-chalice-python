@@ -1,5 +1,7 @@
 # poc-chalice-python
 
+Inspired from (this video tutorial)[https://www.youtube.com/watch?v=r60-90Stb2o&ab_channel=DevOpsJourney]
+
 ## Installing Chalice
 
 ```bash
