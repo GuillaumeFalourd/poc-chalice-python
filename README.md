@@ -45,4 +45,4 @@ Then you can:
 - Access `http://0.0.0.0:8000/country/{country_name}` to get the covid-19 datas in JSON format from the informed country.
 
 - Access `http://0.0.0.0:8000/price/{symbol}` to get cryptocurrencies price values ([the full list of symbol can be obtained from here](https://coinmarketcap.com/api/documentation/v1/#section/Standards-and-Conventions)) 
-This endpoint needs a valid [API KEY from coinmarketcap.com](https://coinmarketcap.com/api/documentation/v1/#section/Introduction) set on the (chalicelib file)[https://github.com/GuillaumeFalourd/poc-chalice-python/blob/main/chalicelib/__init__.py] to work.
+This endpoint needs a valid [API KEY from coinmarketcap.com](https://coinmarketcap.com/api/documentation/v1/#section/Introduction) set on the [chalicelib file](https://github.com/GuillaumeFalourd/poc-chalice-python/blob/main/chalicelib/__init__.py) to work.
