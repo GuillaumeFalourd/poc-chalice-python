@@ -44,4 +44,4 @@ Then you can:
 
 - Access `http://0.0.0.0:8000/country/{country_name}` to get the covid-19 datas in JSON format from the informed country.
 
-- Access `http://0.0.0.0:8000/price/{symbol}` to get cryptocurrencies price values ([the full list of symbol can be obtained from here](https://coinmarketcap.com/api/documentation/v1/#section/Standards-and-Conventions)) - Need an API KEY to work.
+- Access `http://0.0.0.0:8000/price/{symbol}` to get cryptocurrencies price values ([the full list of symbol can be obtained from here](https://coinmarketcap.com/api/documentation/v1/#section/Standards-and-Conventions)) - This endpoint needs an API KEY to work.
