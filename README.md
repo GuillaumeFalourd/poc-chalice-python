@@ -1,5 +1,7 @@
 # poc-chalice-python
 
+![title](/docs/chalice-python.png)
+
 Repository inspired from [this video tutorial](https://www.youtube.com/watch?v=r60-90Stb2o&ab_channel=DevOpsJourney)
 
 ## What is Chalice?
