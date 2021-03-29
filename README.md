@@ -2,6 +2,8 @@
 
 Inspired from [this video tutorial](https://www.youtube.com/watch?v=r60-90Stb2o&ab_channel=DevOpsJourney)
 
+## What is Chalice?
+
 **AWS Chalice** allows you to quickly create and deploy applications that use Amazon API Gateway and AWS Lambda. It provides: A command line tool for creating, deploying, and managing your app. A familiar and easy to use API for declaring views in python code. Automatic IAM policy generation.
 
 ## Installing Chalice
