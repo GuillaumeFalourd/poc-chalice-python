@@ -57,16 +57,16 @@ To start the server locally, run:
 chalice local --host 0.0.0.0
 ```
 
-Then you can:
+Then you can access on your navigator:
 
-- Access `http://0.0.0.0:8000` on your navegator to get the `Hello World` JSON implemented on the `app.py` file.
+- `http://0.0.0.0:8000` to get the `Hello World` JSON implemented on the `app.py` file.
 
-- Access `http://0.0.0.0:8000/time` on your navegator to get the current time.
+- `http://0.0.0.0:8000/time` to get the current time.
 
 - POST a message on `http://0.0.0.0:8000/echo` to see the same message returned.
 
-- Access `http://0.0.0.0:8000/country/{country_name}` to get the covid-19 datas in JSON format from the informed country.
+- `http://0.0.0.0:8000/country/{country_name}` to get the covid-19 datas in JSON format from the informed country.
 
-- Access `http://0.0.0.0:8000/price/{symbol}` to get cryptocurrencies price values 
+- `http://0.0.0.0:8000/price/{symbol}` to get cryptocurrencies price values 
   - [The full list of symbol can be obtained from here](https://coinmarketcap.com/api/documentation/v1/#section/Standards-and-Conventions).
   - This endpoint needs a valid [API KEY from coinmarketcap.com](https://coinmarketcap.com/api/documentation/v1/#section/Introduction) set on the [chalicelib file](https://github.com/GuillaumeFalourd/poc-chalice-python/blob/main/chalicelib/__init__.py) to work.
